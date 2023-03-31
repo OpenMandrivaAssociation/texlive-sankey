@@ -1,6 +1,6 @@
 Name:		texlive-sankey
 Version:	61874
-Release:	1
+Release:	2
 Summary:	Draw Sankey diagrams with TikZ
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/sankey
