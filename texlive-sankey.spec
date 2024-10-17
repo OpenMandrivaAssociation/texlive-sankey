@@ -3,7 +3,7 @@ Version:	61874
 Release:	2
 Summary:	Draw Sankey diagrams with TikZ
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/sankey
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/sankey
 License:	lppl1.3 gpl
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/sankey.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/sankey.doc.r%{version}.tar.xz
